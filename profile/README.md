@@ -66,10 +66,10 @@ This makes Cherenkov detectors invaluable in high-energy physics and astrophysic
 ---
 
 ## 📂 Repositories
-- `astro-lab` → Astrophysics & cosmology codes  
-- `hep-theory` → High-energy physics & QFT models  
-- `quantum-computing` → Quantum-inspired algorithms  
-- `math-foundations` → Abstract algebra, topology, geometry  
+- `pinn-for-superradiant-abg-black-hole` → PINN for Superradiant Ayon-Beato-Garcia BH 
+ - `on-the-sunyaev-zeldovich-effect` → Sunyaev-Zeldovich Effect theory  
+- `on-the-cherenkov-effect` → Cherenkov Effect theory  
+- `quantum-computing-foundation-theory` → Fundamentals of QC 
 
 ---
 ## About Me 
